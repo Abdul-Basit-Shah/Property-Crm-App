@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Fonts/Comfortaa-Bold.ttf",
+      "sha1": "160e0e5a1010cd45ea124f08a894156e02236551"
+    },
+    {
+      "path": "src/Fonts/Comfortaa-ExtraBold.ttf",
+      "sha1": "762f5749dac05157270210342cd1b071baea92d1"
+    },
+    {
+      "path": "src/Fonts/Comfortaa-Light.ttf",
+      "sha1": "ed0ebd5d2d4f12b0b8ad23bfee5c5ef692c713c7"
+    },
+    {
+      "path": "src/Fonts/Comfortaa-Medium.ttf",
+      "sha1": "fda057b8b92cfb9c4c65b8151cee56a089390526"
+    },
+    {
+      "path": "src/Fonts/Comfortaa-Regular.ttf",
+      "sha1": "fb5a258452921a7f710d1913777ae6f48a0b6089"
+    },
+    {
+      "path": "src/Fonts/Comfortaa-SemiBold.ttf",
+      "sha1": "48890a29aafcb54748ace8dadff63a2dc261fe6c"
+    },
+    {
+      "path": "src/Fonts/Montserrat-Bold.ttf",
+      "sha1": "98c66622226025f539568865af96df5175e2979c"
+    },
+    {
+      "path": "src/Fonts/Montserrat-Medium.ttf",
+      "sha1": "25c429296b9d6eb242cba92d1ee7fae484b019cb"
+    },
+    {
+      "path": "src/Fonts/Montserrat-Regular.ttf",
+      "sha1": "bb895d19b8a1fbe1c57fc89cac5da82fdc8fdef4"
+    },
+    {
+      "path": "src/Fonts/Montserrat-SemiBold.ttf",
+      "sha1": "0754a3a23d8d68b0f0558df3109e0df86e968f24"
+    }
+  ]
+}
